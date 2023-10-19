@@ -1,0 +1,46 @@
+﻿  ball.cpp
+  gameManager.cpp
+  main.cpp
+  menu.cpp
+C:\Users\yasha\source\repos\Pong-Yashasvi\Pong-Yashasvi\SRC\menu.cpp(44,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yasha\source\repos\Pong-Yashasvi\Pong-Yashasvi\SRC\menu.cpp(44,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yasha\source\repos\Pong-Yashasvi\Pong-Yashasvi\SRC\menu.cpp(47,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yasha\source\repos\Pong-Yashasvi\Pong-Yashasvi\SRC\menu.cpp(47,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  paddle.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong-Yashasvi.vcxproj -> C:\Users\yasha\source\repos\Pong-Yashasvi\Release\Pong-Yashasvi.exe
